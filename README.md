@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sergey82K
+- 👀 I’m interested in design electronic using MCU.
+- 🌱 I’m have practical expirence with Microchip PICmicro (ASM, C), Nuvoton ARM, ESP8266 and many hardware, such as RS232/485, CAN, precise ADC, power modules (up to 400V AC), steeper motor drivers and other.
